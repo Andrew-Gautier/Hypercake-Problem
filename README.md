@@ -1,5 +1,4 @@
 # Hypercake and other Combinatorial Experiments in multiple languages
-# Hypercake Problem – Multi‑Language Implementations
 
 This repository contains solutions to the **hypercake problem**, a generalization of the classic pancake (2‑D) and cake (3‑D) cutting problems to an arbitrary number of dimensions. The maximum number of pieces obtainable from a *k‑dimensional hypercake* with `n` hyperplanar cuts is given by the sum of binomial coefficients:
 
